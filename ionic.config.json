@@ -1,0 +1,7 @@
+{
+  "name": "ChimeneApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
